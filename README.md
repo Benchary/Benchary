@@ -1,7 +1,6 @@
 <h2 align="center">👋 嗨 我是卞辰阳 | Benchary</h2>
 <p align="center">
   <a href="https://about.kaokit.com">🏠主页</a> | 
-  <a href="mailto:392729038@qq.com">📮邮箱</a>
   <a href="">🌐博客</a>
   <a href="">📈网站运行状态</a>
 </p>
@@ -23,7 +22,8 @@
 - 🔎 擅长分析数据包对网络故障排除
 - ☁️ 公(私)云服务的落地实践
 
-> PS: 企业中的路由交换和各服务器的部署维护，从网络技术的角度分析，本质都是基于互联网`TCP/IP`协议功能的延申，
+> PS: 企业中的路由交换和各服务器的部署维护，从网络技术的角度分析，本质都是基于互联网`TCP/IP`协议功能的延申。
+
 
 ### 💡 知识点演示
 
@@ -42,6 +42,9 @@ sequenceDiagram
     Client->>Server: ACK=1,Seq=x+2,ACK=y+2
 ```  
 
+### 💡 联系方式
+
+<a href="mailto:392729038@qq.com">📮邮箱</a>
 
 
 
