@@ -1,4 +1,4 @@
-<h2 align="center">👋 嗨 我是卞辰阳 Bian.ChenYang</h2>
+<h2 align="center">👋 嗨 我是卞辰阳 | Benchary</h2>
 <p align="center">
   <a href="https://about.kaokit.com">🏠主页</a> | 
   <a href="mailto:392729038@qq.com">📮邮箱</a>
