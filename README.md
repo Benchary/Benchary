@@ -42,7 +42,7 @@ sequenceDiagram
     Client->>Server: ACK=1,Seq=x+2,ACK=y+2
 ```  
 
-### 💡 联系方式
+### ☎ 联系方式
 
 <a href="mailto:392729038@qq.com">📮邮箱</a>
 
