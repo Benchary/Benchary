@@ -1,7 +1,6 @@
 <h2 align="center">👋 嗨 我是卞辰阳 | Benchary</h2>
 <p align="center">
-  <a href="https://about.kaokit.com">🏠主页</a> | 
-  <a href="">🌐博客</a> |
+  <a href="https://benchary.github.io/">🌐博客</a> |
   <a href="">📈网站运行状态</a>
 </p>
   
