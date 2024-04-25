@@ -1,7 +1,7 @@
 <h2 align="center">👋 嗨 我是卞辰阳 | Benchary</h2>
 <p align="center">
-  <a href="https://benchary.github.io/">🌐博客</a> |
-  <a href="">📈网站运行状态</a>
+  🌐<a href="https://kaokit.com/">博客</a> | 
+  😀<a href="https://kaokit.com/about">简历</a> 
 </p>
   
 <!--
@@ -23,28 +23,6 @@
 
 > [!TIP]
 > 企业中的路由交换和各服务器相关网络服务，从网络技术的角度分析，本质都是基于互联网`TCP/IP`协议功能的延申。
-
-
-### 💡 知识点演示
-
-TCP/IP 3次握手4次挥手
-
-```mermaid
-sequenceDiagram
-    Client->>Server: SYN=1, Seq=x
-    Server->>Client: SYN=1, ACK=1,Seq=y,ACK=x+1
-    Client->>Server: ACK=1, Seq=x+1,ACK=y+1
-    Client-->>Server: 数据传输
-    Server-->>Client: 数据传输
-    Client->>Server: FIN=1, Seq=x+1
-    Server->>Client: ACK=1,Seq=y+1,ACK=x+2
-    Server->>Client: FIN=1, ACK=1,Seq=y+1,ACK=x+2
-    Client->>Server: ACK=1,Seq=x+2,ACK=y+2
-```  
-
-### ☎ 联系方式
-
-<a href="mailto:392729038@qq.com">📮邮箱</a>
 
 
 
