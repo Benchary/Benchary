@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Benchary‘s Network
 description: 通用 Internet 技术
-logo: ./logo.png
+logo: https://www.picgo.net/image/111.Shitvl
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
