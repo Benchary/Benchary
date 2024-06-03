@@ -2,5 +2,9 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: Benchary‘s Network
 description: 通用 Internet 技术
 logo: https://img.picgo.net/2024/05/31/111c0f6389d2a52010b.webp
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title/
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
