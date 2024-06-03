@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+{% for post in paginator.posts %}
+  <article class="page-preview">
+    <a href="{{ page.url | relative_url }}">
 <h2>{{ page.title }}</h2>
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 
