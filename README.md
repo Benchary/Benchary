@@ -1,8 +1,9 @@
 <h2 align="center">👋 嗨 我是卞辰阳 | Benchary</h2>
-<p align="center">
+  
+<!--<p align="center">
   🌐<a href="https://kaokit.com/">技术指南</a> | 
   😀<a href="https://github.com/Benchary">GitHub</a> 
-</p>
+</p>-->
   
 <!--
 **beercrab/beercrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +25,7 @@
 - 🎮 装备养成游戏、动漫
 - 💻 时不时捕获下网络封装数据包
 
-### 正在做的事
+### 📟 正在做的事
 - 👶 遛娃
 - 👨‍💻 构建基于 iptables/nftables 防火墙的网络流量分析工具
 
