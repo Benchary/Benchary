@@ -1,4 +1,4 @@
-<h2 align="center">👋 嗨 我是卞辰阳 | Benchary</h2>
+<h2 align="center">👋 嗨 我是 Benchary</h2>
   
 <!--<p align="center">
   🌐<a href="https://kaokit.com/">技术指南</a> | 
@@ -24,10 +24,6 @@
 - 🎮 装备养成游戏、动漫
 - 💻 Wireshark/tcpdump 分析网络包
 
-
-### 📟 正在做的事
-- 👶 遛娃
-- 👨‍💻 构建 iptables 防火墙(编辑在线教程)
 
 
 
