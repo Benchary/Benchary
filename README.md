@@ -1,29 +1,16 @@
 <h2 align="center">👋 嗨 我是 Benchary</h2>
   
-<!--<p align="center">
-  🌐<a href="https://kaokit.com/">技术指南</a> | 
-  😀<a href="https://github.com/Benchary">GitHub</a> 
-</p>-->
-  
-<!--
-**beercrab/beercrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### 😎 关于我:
 
 - 🔭 专业计算机网络技术
 - 💼 我目前从事计算机系统运维
-
-### 🧰 专业技能
-- 🔎 擅长使用 Wireshark 分析数据包进行网络故障诊断
-- ☁️ 公(私)云服务的落地实践
-- 🖥️ Linux 系统管理
 
 ### 😀 兴趣
 
 - 🎮 装备养成游戏、动漫
 - 💻 Wireshark/tcpdump 分析网络包
 
+以下是我整理的的一个网络故障分析模板，具备以下功能
 
 - 快速定位网络问题的前提，首先需要确定故障范围，对于企业网络环境，可以参考以下框架快速分析网络问题 。   
 - 此框架结合了 **OSI 参考模型** 及 **TCP/IP 协议堆栈** 部分重要内容  ，应用层协议太多了，DHCP\iSCSI\FTP 等等，所以只列举了以下两个日常工作生活都会涉及的互联网协议 HTTP 及 DNS。  
@@ -126,7 +113,6 @@
   <td rowspan="1">电源</td>   
   <td colspan="12" align="center">ON / OFF (能源很重要⭐)</td>
 </table>
-
 
 
 
