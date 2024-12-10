@@ -16,7 +16,7 @@
         <th align="center">协议</th> <!-- 居中对其（默认）-->
         <th colspan="2" align="center">应用/服务</th>  <!-- 右对齐-->
         <th colspan="1" align="center">主机</th>  <!-- 右对齐-->
-        <th colspan="7" align="center">网络设备及网络分析工具</th>  <!-- 右对齐-->
+        <th colspan="6" align="center">网络设备及终端网络分析工具</th>  <!-- 右对齐-->
         <th colspan="1" align="center">终端</th>  <!-- 右对齐-->
          </tr>
     <tr>
@@ -24,12 +24,11 @@
         <td>TLS</td>
         <td rowspan="2" colspan="2" align="center">Nginx / Apache</td> 
         <td rowspan="10" colspan="1" align="center">Server</td> 
-        <td rowspan="2" colspan="6" align="center">Browser(POST/GET)</td> 
-        <td rowspan="10" colspan="1" align="center">Wireshark
-          Tcpdump |
-          CSNAS
-          (Microsoft Network Monitor) 
-          </td> 
+        <td rowspan="2" colspan="2" align="center">Browser</td>
+        <td rowspan="2" colspan="2" align="center">Fiddler</td>
+        <td rowspan="2" colspan="1" align="center">curl</td>
+        <td rowspan="8" colspan="1" align="center">Wireshark
+            (tcpdump)</td> 
         <td rowspan="10" colspan="1" align="center">PC</td> 
     </tr>
     <tr>
@@ -39,17 +38,17 @@
         <td>DNS</td>
           <td colspan="2" align="center">Bind</td>
           <td rowspan="1" colspan="5" align="center">Nslookup</td> 
-        </tr>
+        </tr>   
     <tr>
-        <td rowspan="3">传输层</td>
+        <td rowspan="2">传输层</td>
         <td>TCP</td>
-        <td colspan="1" align="center">443 </td>
         <td colspan="1" align="center">80 </td>
-        <td rowspan="7" align="center"><a href="">Firewall</a></td>
-        <td rowspan="2" align="center"><a href="">Netcat</a></td>
-        <td rowspan="2" align="center"><a href="">Netstat</a></td>
+        <td colspan="1" align="center">443 </td>
+        <td rowspan="7" align="center">Firewall</td>
+        <td rowspan="2" align="center">Netcat</td>
+        <td rowspan="2" align="center">Netstat</td>
         <td rowspan="2" align="center">Telnet</td>
-        <td rowspan="5" align="center"><a href="">Nmap</a></td> 
+        <td rowspan="5" align="center">Nmap</td> 
     </tr>
     <tr>
         <td>UDP</td>
@@ -106,6 +105,7 @@
   <td rowspan="1">电源</td>   
   <td colspan="12" align="center">ON / OFF (能源很重要⭐)</td>
 </table>
+
 
 遇到疑难杂症，多从系统中捕获的日志进行溯源分析，无论是网络、操作系统、应用程序都会生成日志信息，无法生成日志的技术产品注定是失败的！
 
