@@ -21,8 +21,7 @@
     <tr>
         <td rowspan="2">应用层</td>
         <td>HTTPS</td>
-        <td rowspan="1" colspan="2" align="center">Nging
-         Apache</td> 
+        <td rowspan="1" colspan="2" align="center">Nginx / Apache</td> 
         <td rowspan="10" colspan="1" align="center">Server</td> 
         <td rowspan="1" colspan="5" align="center">Browser (POST/GET)</td>
         <td rowspan="8" colspan="1" align="center">Wireshark
