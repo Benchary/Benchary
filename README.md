@@ -24,7 +24,7 @@
         <td rowspan="1" colspan="2" align="center">Nginx / Apache</td> 
         <td rowspan="10" colspan="1" align="center">Server</td> 
         <td rowspan="1" colspan="5" align="center">Browser (POST/GET)</td>
-        <td rowspan="8" colspan="1" align="center">Wireshark
+        <td rowspan="10" colspan="1" align="center">Wireshark
             (Tcpdump)</td> 
         <td rowspan="10" colspan="1" align="center">PC</td> 
     </tr>
@@ -76,7 +76,7 @@
         <td rowspan="2" align="center">L2 Switch
             (AP)
         </td>
-        <td rowspan="2" colspan="2" align="center">Bridge
+        <td rowspan="2" colspan="1" align="center">Bridge
             (Wireless Bridge)
         </td>
            </tr>
