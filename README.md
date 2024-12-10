@@ -20,7 +20,7 @@
          </tr>
     <tr>
         <td rowspan="2">应用层</td>
-        <td>HTTP</td>
+        <td>HTTPS</td>
         <td rowspan="1" colspan="2" align="center">Nginx / Apache</td> 
         <td rowspan="9" colspan="1" align="center">Server</td> 
         <td rowspan="1" colspan="2" align="center">Browser</td>
@@ -37,12 +37,11 @@
         </tr>   
     <tr>
         <td rowspan="3">传输层</td>
-        <td colspan="2" align="center">TLS</td>
-        <td rowspan="3" colspan="1" align="center">443</td>
+        <td colspan="1">TLS</td>
+        <td rowspan="2" colspan="2" align="center">443</td>
     </tr>
       <tr>
-        <td>TCP</td>
-        <td colspan="1" align="center">80 </td>        
+        <td>TCP</td>     
         <td rowspan="7" align="center">Firewall</td>
         <td rowspan="2" align="center">Netcat</td>
         <td rowspan="2" align="center">Netstat</td>
@@ -51,7 +50,7 @@
     </tr>
     <tr>
         <td>UDP</td>
-        <td colspan="1" align="center">53</td>
+        <td colspan="2" align="center">53</td>
          </tr>
     <tr>
         <td rowspan="3">网络层</td>
