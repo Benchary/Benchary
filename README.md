@@ -22,13 +22,13 @@
         <td rowspan="2">应用层</td>
         <td>HTTPS</td>
         <td rowspan="1" colspan="2" align="center">Nginx / Apache</td> 
-        <td rowspan="9" colspan="1" align="center">Server</td> 
+        <td rowspan="10" colspan="1" align="center">Server</td> 
         <td rowspan="1" colspan="2" align="center">Browser</td>
         <td rowspan="1" colspan="2" align="center">Fiddler</td>
         <td rowspan="1" colspan="1" align="center">curl</td>
-        <td rowspan="7" colspan="1" align="center">Wireshark
+        <td rowspan="8" colspan="1" align="center">Wireshark
             (tcpdump)</td> 
-        <td rowspan="9" colspan="1" align="center">PC</td> 
+        <td rowspan="10" colspan="1" align="center">PC</td> 
     </tr>
       <tr> 
         <td>DNS</td>
@@ -42,11 +42,11 @@
     </tr>
       <tr>
         <td>TCP</td>     
-        <td rowspan="7" align="center">Firewall</td>
-        <td rowspan="2" align="center">Netcat</td>
-        <td rowspan="2" align="center">Netstat</td>
-        <td rowspan="2" align="center">Telnet</td>
-        <td rowspan="5" align="center">Nmap</td> 
+        <td rowspan="8" align="center">Firewall</td>
+        <td rowspan="3" align="center">Netcat</td>
+        <td rowspan="3" align="center">Netstat</td>
+        <td rowspan="3" align="center">Telnet</td>
+        <td rowspan="6" align="center">Nmap</td> 
     </tr>
     <tr>
         <td>UDP</td>
