@@ -42,7 +42,6 @@
         </tr>
     <tr>
         <td rowspan="2">传输层</td>
-     <td rowspan="1" colspan="3" align="center">TLS</td>
         <td>TCP</td>
         <td colspan="1" align="center">443 </td>
         <td colspan="1" align="center">80 </td>
