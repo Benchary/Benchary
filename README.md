@@ -40,7 +40,7 @@
           <td rowspan="1" colspan="5" align="center">Nslookup</td> 
         </tr>   
     <tr>
-        <td rowspan="2">传输层</td>
+        <td rowspan="3">传输层</td>
         <td>TCP</td>
         <td colspan="1" align="center">80 </td>
         <td colspan="1" align="center">443 </td>
