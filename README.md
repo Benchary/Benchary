@@ -1,23 +1,16 @@
-<h2 align="center">👋 嗨 我是 Benchary</h2>
+<h2 align="center">🔎 网络诊断分析框架</h2>
   
-### 😎 关于我:
 
-- 🔭 专业学科：计算机网络
-- 💼 工作岗位：系统运维
-  
-### 😀 兴趣
+简单易用的网络故障分析框架，具备以下功能
 
-- 💻 Wireshark/tcpdump 分析网络包
-- 👨‍💻 裁剪知识库，仅掌握有价值的知识
-- 💪 徒手健身
-
-以下是我整理的的一个网络故障分析模板，具备以下功能
-
-- 快速定位网络问题的前提，首先需要确定故障范围，对于企业网络环境，可以参考以下框架快速分析网络问题 。   
+- 适用目标：
+  - 普通用户
+  - 专业用户
+  - 企业用户 
 - 此框架结合了 **OSI 参考模型** 及 **TCP/IP 协议堆栈** 部分重要内容  ，应用层协议太多了，DHCP\iSCSI\FTP 等等，所以只列举了以下两个日常工作生活都会涉及的互联网协议 HTTP 及 DNS。  
-- 框架中只罗列了常用的 **Windows 终端网络分析工具** ，当无法登录目标设备的情况下，可在本地终端使用这些工具快速分析网络问题
+- 框架中只罗列了常用的 **网络分析工具** ，当无法登录目标设备的情况下，可在本地终端使用这些工具快速分析网络问题
 
-当 Client(电脑) 发起对 Server 服务的请求，期间发生任何网络问题都可以参考以下框架进行快速故障分析
+当 Client(电脑) 发起对 Server 服务的请求，期间发生任何网络问题都可以参考以下框架进行快速诊断
 
 <table border="1.5">
     <tr>
@@ -33,9 +26,7 @@
         <td>TLS</td>
         <td rowspan="2" colspan="2" align="center">Nginx / Apache</td> 
         <td rowspan="10" colspan="1" align="center">Server</td> 
-        <td rowspan="2" colspan="2" align="center">Browser</td>
-        <td rowspan="2" colspan="2" align="center">Fiddler</td>
-        <td rowspan="2" colspan="1" align="center">curl</td>
+        <td rowspan="2" colspan="6" align="center">Browser(POST/GET)</td> 
         <td rowspan="8" colspan="1" align="center">Wireshark
             (tcpdump)</td> 
         <td rowspan="10" colspan="1" align="center">PC</td> 
