@@ -39,14 +39,14 @@
         <td rowspan="3">传输层</td>
         <td colspan="1">TLS</td>
         <td rowspan="2" colspan="2" align="center">443</td>
+        <td rowspan="8" align="center">Firewall</td>
+        <td rowspan="3" align="center">Netcat</td>
+        <td rowspan="3" align="center">Netstat</td>
+        <td rowspan="3" align="center">Telnet</td>
+        <td rowspan="6" align="center">Nmap</td> 
     </tr>
       <tr>
         <td>TCP</td>     
-        <td rowspan="7" align="center">Firewall</td>
-        <td rowspan="2" align="center">Netcat</td>
-        <td rowspan="2" align="center">Netstat</td>
-        <td rowspan="2" align="center">Telnet</td>
-        <td rowspan="5" align="center">Nmap</td> 
     </tr>
     <tr>
         <td>UDP</td>
