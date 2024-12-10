@@ -16,7 +16,7 @@
         <th align="center">协议</th> <!-- 居中对其（默认）-->
         <th colspan="2" align="center">应用/服务</th>  <!-- 右对齐-->
         <th colspan="1" align="center">主机</th>  <!-- 右对齐-->
-        <th colspan="7" align="center">网络设备及终端网络分析工具</th>  <!-- 右对齐-->
+        <th colspan="7" align="center">网络设备及网络分析工具</th>  <!-- 右对齐-->
         <th colspan="1" align="center">终端</th>  <!-- 右对齐-->
          </tr>
     <tr>
@@ -39,12 +39,13 @@
         <td>DNS</td>
           <td colspan="2" align="center">Bind</td>
           <td rowspan="1" colspan="5" align="center">Nslookup</td> 
-        </tr>   
+        </tr>
     <tr>
         <td rowspan="2">传输层</td>
+     <td rowspan="1" colspan="3" align="center">TLS</td>
         <td>TCP</td>
-        <td colspan="1" align="center">80 </td>
         <td colspan="1" align="center">443 </td>
+        <td colspan="1" align="center">80 </td>
         <td rowspan="7" align="center"><a href="">Firewall</a></td>
         <td rowspan="2" align="center"><a href="">Netcat</a></td>
         <td rowspan="2" align="center"><a href="">Netstat</a></td>
