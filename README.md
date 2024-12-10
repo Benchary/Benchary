@@ -19,30 +19,30 @@
         <th colspan="1" align="center">终端</th>  <!-- 右对齐-->
          </tr>
     <tr>
-        <td rowspan="3">应用层</td>
-        <td>TLS</td>
-        <td rowspan="2" colspan="2" align="center">Nginx / Apache</td> 
-        <td rowspan="10" colspan="1" align="center">Server</td> 
-        <td rowspan="2" colspan="2" align="center">Browser</td>
-        <td rowspan="2" colspan="2" align="center">Fiddler</td>
-        <td rowspan="2" colspan="1" align="center">curl</td>
-        <td rowspan="8" colspan="1" align="center">Wireshark
-            (tcpdump)</td> 
-        <td rowspan="10" colspan="1" align="center">PC</td> 
-    </tr>
-    <tr>
+        <td rowspan="2">应用层</td>
         <td>HTTP</td>
-      </tr>
+        <td rowspan="1" colspan="2" align="center">Nginx / Apache</td> 
+        <td rowspan="9" colspan="1" align="center">Server</td> 
+        <td rowspan="1" colspan="2" align="center">Browser</td>
+        <td rowspan="1" colspan="2" align="center">Fiddler</td>
+        <td rowspan="1" colspan="1" align="center">curl</td>
+        <td rowspan="7" colspan="1" align="center">Wireshark
+            (tcpdump)</td> 
+        <td rowspan="9" colspan="1" align="center">PC</td> 
+    </tr>
       <tr> 
         <td>DNS</td>
           <td colspan="2" align="center">Bind</td>
           <td rowspan="1" colspan="5" align="center">Nslookup</td> 
         </tr>   
     <tr>
-        <td rowspan="2">传输层</td>
+        <td rowspan="3">传输层</td>
+        <td colspan="2" align="center">TLS</td>
+    </tr>
+      <tr>
         <td>TCP</td>
         <td colspan="1" align="center">80 </td>
-        <td colspan="1" align="center">443 </td>
+        <td rowspan="2" colspan="1" align="center">443 </td>
         <td rowspan="7" align="center">Firewall</td>
         <td rowspan="2" align="center">Netcat</td>
         <td rowspan="2" align="center">Netstat</td>
