@@ -9,7 +9,6 @@
 - 作用：快速诊断网络故障
 - 注意： 本框架沿用**OSI 参考模型** 及 **TCP/IP 协议堆栈** 部分重要内容  
 
-
 <table border="1.5">
     <tr>
         <th align="center">分层</th>   <!-- 左对齐 -->
@@ -40,7 +39,7 @@
           <td rowspan="1" colspan="5" align="center">Nslookup</td> 
         </tr>   
     <tr>
-        <td rowspan="3">传输层</td>
+        <td rowspan="2">传输层</td>
         <td>TCP</td>
         <td colspan="1" align="center">80 </td>
         <td colspan="1" align="center">443 </td>
@@ -105,6 +104,8 @@
   <td rowspan="1">电源</td>   
   <td colspan="12" align="center">ON / OFF (能源很重要⭐)</td>
 </table>
+
+
 
 
 遇到疑难杂症，多从系统中捕获的日志进行溯源分析，无论是网络、操作系统、应用程序都会生成日志信息，无法生成日志的技术产品注定是失败的！
