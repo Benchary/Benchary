@@ -2,13 +2,11 @@
 
 <h3> 🔔使用说明 </h3>
 
- <table border="1.5">
+<table border="1.5">
 <tr>
 <th>适用对象</th>
 <th>适用场景</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>🙍‍♂️普通用户</td>
 <td>🏡家庭网络</td>
